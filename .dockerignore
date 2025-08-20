@@ -1,0 +1,8 @@
+.env
+**/.DS_Store
+**/node_modules
+**/vendor
+**/.git
+**/.gitignore
+**/.idea
+**/.vscode
